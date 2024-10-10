@@ -1,0 +1,2 @@
+n = "Lucifer"
+print(n)
